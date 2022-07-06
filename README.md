@@ -33,7 +33,7 @@ Inventive Web Developer creates novel site designs and innovative user interface
                                 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
                     </p>
                     
-                  ### Socials
+
                   
                   
                 <p align="left">

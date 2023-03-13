@@ -10,7 +10,7 @@ I am a Full Stack Web Developer position with 3+ years of experience in web deve
 * 🖥️  See my portfolio at [My portifolio](http://youssefehab.com)
 * ✉️  You can contact me at [yehab1805@gmail.com](mailto:yehab1805@gmail.com)
 * 🚀  I'm currently working as a [Freelancer](http://youssefehab.com)
-* 🧠  I'm learning ReactJs
+* 🧠  I'm a Full Stack Developer
 * 🤝  I'm open to collaborating on Egypt for sustainable development
 
 ### Skills
